@@ -1,0 +1,34 @@
+# Ignorar la carpeta de configuración de Visual Studio
+.vs/
+
+# Ignorar los archivos de compilación y binarios
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Ignorar los archivos de paquetes
+packages/
+
+# Ignorar todos los archivos con extensiones de datos temporales
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.pyc
+*.pyo
+*.tmp
